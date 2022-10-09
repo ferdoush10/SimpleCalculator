@@ -1,16 +1,26 @@
-# calculator
+A simple Calculator for general purposes.
 
-A new Flutter project.
+Why use it?
+Its useful for simple calculations.
 
-## Getting Started
+Features
+  Add
+  Multiply
+  Subtract
+  Divide
+  
+Built With
+  Dart
+  Flutter
+  
+How to Run?
+  
+  You can download the source file and run it Visual Stadio Code 
 
-This project is a starting point for a Flutter application.
+Screenshot
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Hotpot 1](https://user-images.githubusercontent.com/44763253/194747399-e5b5eeeb-984a-4f27-91a8-e4fb5b812f05.png)
+![Hotpot 2](https://user-images.githubusercontent.com/44763253/194747404-fa23ef7b-47f4-497e-904f-df0d7a5d067b.png)
+![Hotpot 3](https://user-images.githubusercontent.com/44763253/194747405-32fbb7d5-2076-46d7-a7c3-b48f167ffc9b.png)
+![Hotpot 0](https://user-images.githubusercontent.com/44763253/194747406-684da84c-79db-4720-9675-2a90e2530144.png)
