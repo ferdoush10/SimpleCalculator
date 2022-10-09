@@ -4,14 +4,14 @@ Why use it?
 Its useful for simple calculations.
 
 Features
-  Add
-  Multiply
-  Subtract
+  Add,
+  Multiply,
+  Subtract,
   Divide
   
 Built With
-  Dart
-  Flutter
+  Dart,
+  Flutter,
   
 How to Run?
   
